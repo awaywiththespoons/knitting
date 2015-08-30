@@ -2,6 +2,7 @@
 Work in progress for the hand-knitting program
 
 Here are some cats made with the program so far:
+http://processing.beccarose.co.uk/knitting-program-v11/
 
 It needs some work. Things to improve:
 * add sliders to change resolution based on yarn or sample size
